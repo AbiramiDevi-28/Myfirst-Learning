@@ -3,3 +3,5 @@ To learn Jenkins
 First learn Github 
 
 And then Victory is waiting for you
+
+Learnt the branckhes with pull and Merge Commands
